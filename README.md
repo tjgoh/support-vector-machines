@@ -1,0 +1,1 @@
+The scikit-learn package is used to train an SVM classifier. To do so, we need to tune 2 hyperparameters: the cost $C$ and precision $\gamma$ (gamma). This is done using $K$-fold cross-validation to determine the best combination of values for this pair.
